@@ -1,0 +1,11 @@
+.vix-list {
+  position: relative !important;
+  display: block;
+}
+.vix-list > .vix-item {
+  display: block;
+}
+.vix-list > .vix-item > .vix-item-title {
+  position: sticky !important;
+  top: 0 !important;
+}
