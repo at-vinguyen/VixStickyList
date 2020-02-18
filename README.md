@@ -1,7 +1,7 @@
-# VixStickyList
+# Vix Sticky List
 A JS module write in ES5 that helps to show your data list in a smart-looking.<br/>
 Quiz, survey .. is suitable to use.
-### Techniques:
+### Techniques
  `JavaScript`: JavaScript Module Pattern<br/>`CSS`: Sticky Positioning 
 
 ### Browser Supported
